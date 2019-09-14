@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello！
+Hello,
 ======
 
 I am a Master of Language student at Language Technologies Institute (LTI), Carnegie Mellon University. I am working with professor [Jamie Callan](http://www.cs.cmu.edu/~callan/) on Boeing project.
