@@ -1,14 +1,14 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## HELLO,
+HELLO,
+======
 
 I am a Master of Language student at Language Technologies Institute (LTI), Carnegie Mellon University. I am working with professor [Jamie Callan](http://www.cs.cmu.edu/~callan/) on Boeing project.
 
