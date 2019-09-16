@@ -14,6 +14,6 @@ Hello,
 
 I am a Master of Language Technologies student at Language Technologies Institute (LTI), Carnegie Mellon University. I am working with professor [Jamie Callan](http://www.cs.cmu.edu/~callan/) on Boeing project.
 
-I am interested in information retrieval and representation learning with nerual nets.
+My research interest falls on information retrieval and representation learning with nerual nets.
 
 I graduated from University of Illinois at Urbana Champaign (UIUC), majoring in Computer Science.
