@@ -7,7 +7,7 @@ author_profile: true
 
 * Modularized transfomer-based ranking framework \
 **Luyu Gao**, Zhuyun Dai, and Jamie Callan \
-In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing [Paper](https://arxiv.org/abs/2004.13313) \
+In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing [Paper](https://arxiv.org/abs/2004.13313) 
 
 * Improving Target-side Lexical Transfer in Multilingual Neural Machine Translation\
 **Luyu Gao**, Xinyi Wang, Graham Neubig \
