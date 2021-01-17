@@ -17,3 +17,5 @@ I am a Master of Language Technologies student at Language Technologies Institut
 My research interest falls on information retrieval and representation learning with nerual nets.
 
 I graduated from University of Illinois at Urbana Champaign (UIUC), majoring in Computer Science.
+
+Aside from my academia life, I've interned with Nvidia GPU foundation profiler team for six months.
