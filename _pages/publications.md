@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+* Complementing Lexical Retrieval with Semantic Residual Embedding\
+**Luyu Gao**, Zhuyun Dai, Tongfei Chen, Zhen Fan, Benjamin Van Durme and Jamie Callan \
+In proceedings of the 42nd European Conference in Information Retrieval (ECIR). 2021. [Paper](https://arxiv.org/abs/2004.13969) [Slides](https://docs.google.com/presentation/d/15cky852qV_qNrsCn0ifs6EZ8mHRkLU6qyPv1LfvbisE/edit?usp=sharing)
+
+* Rethink Training of BERT Rerankers in Multi-Stage Retrieval Pipeline \
+**Luyu Gao**, Zhuyun Dai, Jamie Callan \
+In proceedings of the 42nd European Conference in Information Retrieval (ECIR). 2021. [Paper](https://arxiv.org/abs/2101.08751)
+
 * Modularized transfomer-based ranking framework \
 **Luyu Gao**, Zhuyun Dai, and Jamie Callan \
 In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP) [Paper](https://arxiv.org/abs/2004.13313) 
@@ -21,9 +29,5 @@ In Proceedings of the 2020 ACM SIGIR International Conference on the Theory of I
 * EARL: Speedup transformer-based rankers with pre-computed representation\
 **Luyu Gao**, Zhuyun Dai, and Jamie Callan \
 arXiv:2004.13313. 2020. [Paper](https://arxiv.org/pdf/2004.13313.pdf) 
-
-* Complementing lexical retrieval with semantic residual embedding\
-**Luyu Gao**, Zhuyun Dai, Zhen Fan, and Jamie Callan \
-arXiv:2004.13969. 2020. [Paper](https://arxiv.org/abs/2004.13969) 
 
 
