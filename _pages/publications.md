@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+* COIL: Revisit Exact Lexical Match in Information Retrieval with Contextualized Inverted List\
+**Luyu Gao**, Zhuyun Dai, and Jamie Callan \
+Meeting of the North American Chapter of the Association for Computational Linguistics (NAACL). 2021 (To Appear)
+
 * Complementing Lexical Retrieval with Semantic Residual Embedding\
 **Luyu Gao**, Zhuyun Dai, Tongfei Chen, Zhen Fan, Benjamin Van Durme and Jamie Callan \
 In proceedings of the 42nd European Conference in Information Retrieval (ECIR). 2021. [Paper](https://arxiv.org/abs/2004.13969) [Slides](https://docs.google.com/presentation/d/15cky852qV_qNrsCn0ifs6EZ8mHRkLU6qyPv1LfvbisE/edit?usp=sharing)
@@ -24,7 +28,7 @@ Findings of the 2020 Conference on Empirical Methods in Natural Language Process
 * Understanding BERT rankers under distillation\
 **Luyu Gao**, Zhuyun Dai, and Jamie Callan \
 **Best Short Paper** \
-In Proceedings of the 2020 ACM SIGIR International Conference on the Theory of Information Retrieval [Paper](https://arxiv.org/abs/2007.11088) 
+In Proceedings of the 2020 ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR) [Paper](https://arxiv.org/abs/2007.11088) 
 
 * EARL: Speedup transformer-based rankers with pre-computed representation\
 **Luyu Gao**, Zhuyun Dai, and Jamie Callan \
