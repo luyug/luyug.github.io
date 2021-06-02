@@ -15,7 +15,7 @@ Meeting of the North American Chapter of the Association for Computational Lingu
 
 * Scaling Deep Contrastive Learning Batch Size with Almost Constant Peak Memory Usage \
 **Luyu Gao**, Yunyi Zhang, Jiawei Han and Jamie Callan \
-arXiv:2101.06983. 2021. [Paper](https://arxiv.org/abs/2101.06983) 
+The 6th Workshop on Representation Learning for NLP (RepL4NLP). 2021. [Paper](https://arxiv.org/abs/2101.06983) 
 
 * Complementing Lexical Retrieval with Semantic Residual Embedding\
 **Luyu Gao**, Zhuyun Dai, Tongfei Chen, Zhen Fan, Benjamin Van Durme and Jamie Callan \
