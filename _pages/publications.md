@@ -9,13 +9,13 @@ author_profile: true
 **Luyu Gao** and Jamie Callan \
 arXiv:2104.08253 2021. [Paper](https://arxiv.org/abs/2104.08253) 
 
-* COIL: Revisit Exact Lexical Match in Information Retrieval with Contextualized Inverted List\
-**Luyu Gao**, Zhuyun Dai, and Jamie Callan \
-Meeting of the North American Chapter of the Association for Computational Linguistics (NAACL). 2021 (To Appear) [Paper](https://arxiv.org/abs/2104.07186) 
-
 * Scaling Deep Contrastive Learning Batch Size with Almost Constant Peak Memory Usage \
 **Luyu Gao**, Yunyi Zhang, Jiawei Han and Jamie Callan \
 The 6th Workshop on Representation Learning for NLP (RepL4NLP). 2021. [Paper](https://arxiv.org/abs/2101.06983) 
+
+* COIL: Revisit Exact Lexical Match in Information Retrieval with Contextualized Inverted List\
+**Luyu Gao**, Zhuyun Dai, and Jamie Callan \
+Meeting of the North American Chapter of the Association for Computational Linguistics (NAACL). 2021 (To Appear) [Paper](https://arxiv.org/abs/2104.07186) 
 
 * Complementing Lexical Retrieval with Semantic Residual Embedding\
 **Luyu Gao**, Zhuyun Dai, Tongfei Chen, Zhen Fan, Benjamin Van Durme and Jamie Callan \
